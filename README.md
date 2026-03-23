@@ -26,6 +26,4 @@ Programación Web — Séptimo Semestre.
 
 ## Conclusiones
 
-## Conclusiones
-
 El análisis de peticiones HTTP permitió comprender el funcionamiento real de la comunicación entre cliente y servidor, identificando el uso de métodos como GET y POST en distintos contextos. Se evidenció la importancia de los códigos de estado HTTP, especialmente 200, 201, 304 y 404, para interpretar correctamente el resultado de una solicitud. Además, se observó cómo los mecanismos de caché (ETag, Cache-Control) optimizan el rendimiento evitando transferencias innecesarias de datos. La comparación entre contenido HTML y JSON permitió diferenciar claramente entre aplicaciones web tradicionales y APIs REST orientadas al intercambio de datos. Finalmente, el uso de herramientas como Chrome DevTools y Postman facilitó el análisis detallado de headers, tiempos de respuesta y validación de peticiones mediante pruebas automatizadas.
